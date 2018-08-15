@@ -1,0 +1,11 @@
+/* TEAM */
+    Web designer: Lodewijk Evers
+    Contact: lodewijk@jadwigo.nl
+    Twitter: @jadwigo
+    From: The Hague, The Netherlands
+
+
+/* SITE */
+    Last update: 2018/08
+    Language: English
+    Doctype: HTML
